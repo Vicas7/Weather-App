@@ -1,2 +1,2 @@
-# Wheather-App
+# Weather-App
 A weather web app
